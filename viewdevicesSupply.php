@@ -3,18 +3,11 @@ include 'headerSupply.php';
 require_once 'connection.php';
 ?>
 <html>
-
 <head>
   <title>
   </title>
- 
-
-
-  
 </head>
-
 <body>
-
   <h4>Device List</h4>
   <div class="form">
     <?php
